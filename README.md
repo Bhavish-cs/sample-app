@@ -10,7 +10,7 @@ Build a simple Go application
 Containerize it using Docker
 Configure deployment using YAML files
 Host and test the application on Google Cloud Platform (GCP)
-This repository was automatically created during the Skill Badge lab and includes all required configuration and source files used in the challenge.
+This repository was created during the Skill Badge lab and includes all required configuration and source files used in the challenge.
 
 🛠️ Tech Stack
 
